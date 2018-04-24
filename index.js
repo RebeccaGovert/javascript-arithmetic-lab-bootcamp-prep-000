@@ -22,8 +22,8 @@ function dec(a) {
   return a-1;
 }
 
-function makeInt(n, a) {
-  return parseInt(n) + a;
+function makeInt(a) {
+  return parseInt(a);
 }
 
 /*function() {
