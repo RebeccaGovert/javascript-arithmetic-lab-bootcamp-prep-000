@@ -26,7 +26,7 @@ function makeInt(a) {
   parseInt(makeInt(a.toString()));
 }
 
-function() {
+/*function() {
   
 }
-
+*/
