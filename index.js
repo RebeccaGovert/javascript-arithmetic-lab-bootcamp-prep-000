@@ -14,10 +14,10 @@ function divide(a,b) {
   return a/b;
 }
 
-function inc(n) {
-  return inc(a) + 1;
+function inc(a) {
+  return a + 1;
 }
 
-function dec(n) {
-  return dec(a) - 1;
+function dec(a) {
+  return a - 1;
 }
