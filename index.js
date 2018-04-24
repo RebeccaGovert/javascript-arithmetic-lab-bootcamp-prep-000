@@ -21,11 +21,11 @@ function inc(n) {
 function dec(n) {
   return n -= 1;
 }
-/*
-function makeInt(a) {d
-  return parseInt(a);
-}
 
+function makeInt(n) {d
+  return parseInt(n);
+}
+/*
 function makeInt(a, 10) {
   
 }
