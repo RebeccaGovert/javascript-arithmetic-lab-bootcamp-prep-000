@@ -15,7 +15,7 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  return n += 1;
+  return n += 1; // return n + 1 also worked so did ++n but not n++
 }
 
 function dec(n) {
